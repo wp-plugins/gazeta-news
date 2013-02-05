@@ -6,6 +6,22 @@ Description: Este widget lhe permite manter seu site sempre atualizado com as pr
 Author: Erick Pessoa
 Version: 0.2
 Author URI: http://www.websisti.com.br/
+
+== Description ==
+Plugin desenvolvido por WEBSISTI Soluções Inteligentes, a pedido do Jornal Gazeta da Ilha, para ser um instrumento através do qual todo e qualquer usuário interessado e que utilize WordPress, tenha a possibilidade de incorporar as notícias publicadas pela Gazeta da Ilha em seu site.
+
+== Installation ==
+
+This section describes how to install the plugin and get it working.
+
+e.g.
+
+1. Faça a instalação através do WordPress;
+2. No menu Aparência > Widget acrescente Gazeta News no sidebar desejado;
+
+== Screenshots ==
+
+1. Assim fica o plugin em execução: `/assets/screenshot-1.png` 
 */
 
 /**
