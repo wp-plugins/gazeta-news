@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Multiplicador Gazeta da Ilha Plugin
+Plugin Name: Plugin Gazeta News - Gazeta da Ilha
 Plugin URI: http://www.gazetadailha.com.br/
 Description: Este widget lhe permite manter seu site sempre atualizado com as principais noticias do Portal Gazeta da Ilha
 Author: Erick Pessoa
-Version: 0.1
+Version: 0.2
 Author URI: http://www.websisti.com.br/
 */
 
