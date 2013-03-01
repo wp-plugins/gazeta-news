@@ -4,7 +4,7 @@ Plugin Name: Plugin Gazeta News - Gazeta da Ilha
 Plugin URI: http://www.gazetadailha.com.br/
 Description: Este widget lhe permite manter seu site sempre atualizado com as principais noticias do Portal Gazeta da Ilha
 Author: Erick Pessoa
-Version: 0.2
+Version: 0.3
 Author URI: http://www.websisti.com.br/
 */
 
