@@ -32,6 +32,9 @@ e.g.
 
 == Changelog ==
 
+= 0.3 =
+* Definindo a não repetição do background do topo.
+
 = 0.2 =
 * Ajustes para melhorar a identificação do plugin.
 
